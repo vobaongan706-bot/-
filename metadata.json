@@ -1,0 +1,5 @@
+{
+  "name": "Copy of Team Material Aggregator",
+  "description": "An AI-powered tool to extract team details (awards, descriptions, reflections) from PDF/Image files and compile them into a formatted Word document.",
+  "requestFramePermissions": []
+}
